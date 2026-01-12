@@ -1,2 +1,2 @@
 #!/bin/bash
-./download.sh 'https://www.bakersdelight.com.au/sod_location-sitemap.xml'
+./download.sh 'https://www.bakersdelight.com.au/sitemap_metaobject_pages_1.xml'
